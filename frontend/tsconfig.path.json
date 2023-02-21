@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@errors/*": ["components/errors/*"],
+      "@layout/*": ["components/layout/*"],
+      "@loading/*": ["components/loading/*"],
+      "@pages/*": ["components/pages/*"],
+      "@common/*": ["components/common/*"],
+      "@hoc/*": ["hoc/*"],
+      "@locale/*": ["locale/*"],
+      "@recoils/*": ["recoils/*"],
+      "@utils/*": ["util/*"]
+    }
+  }
+}
